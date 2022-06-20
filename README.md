@@ -1,2 +1,2 @@
 # davidlee-dev.github.io
-My personal website
+Welcome to my personal website! Visit [my website](davidlee-dev.github.io).
