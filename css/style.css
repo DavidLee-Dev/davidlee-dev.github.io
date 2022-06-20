@@ -79,10 +79,10 @@ section {
 	z-index: 99999;
 	background: #FFF url(../img/page-loader.gif) center center no-repeat;
 }
-.devider {
+.divider {
 	width: 100%;
 	height: 23px;
-	background: url('../img/devider.png') no-repeat center center;
+	background: url('../img/divider.png') no-repeat center center;
 	margin: 5px 0 10px;
 }
 .thumbnail {
